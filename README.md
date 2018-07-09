@@ -9,3 +9,5 @@ More info about the container can be found at: https://hub.docker.com/r/nsadawi/
 
 
 The linreg.py file can be used in Jupyter to create and run luigi tasks
+
+A training video that shows how to perform the scaling experiments can be found here: https://youtu.be/Rf512XjfqFE
